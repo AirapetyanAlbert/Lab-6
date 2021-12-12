@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 0,
+    "NameRole": "Not stated"
+  },
+  {
+    "Id": 1,
+    "NameRole": "Director"
+  },
+  {
+    "Id": 2,
+    "NameRole": "Vu"
+  },
+  {
+    "Id": 3,
+    "NameRole": "Manager"
+  }
+]
